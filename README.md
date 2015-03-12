@@ -16,8 +16,9 @@ Web Engineering Reading List
     * [Technical debt] (http://www.martinfowler.com/bliki/TechnicalDebt.html) (Martin Fowler)
     * [Technical debt quadrant] (http://martinfowler.com/bliki/TechnicalDebtQuadrant.html) (Martin Fowler)
 * [MoSCoW method](http://en.wikipedia.org/wiki/MoSCoW_method) (Wikipedia)
-* [Inversion of control](http://en.wikipedia.org/wiki/Inversion_of_control) (Wikipedia)
+* [Inversion of control (IoC container)](http://en.wikipedia.org/wiki/Inversion_of_control) (Wikipedia)
     * [Inversion of Control Containers and the Dependency Injection pattern](http://martinfowler.com/articles/injection.html) (Martin Fowler)
+    * [Dependency injection](http://en.wikipedia.org/wiki/Dependency_injection) (Wikipedia)
 * [Better Specs](http://betterspecs.org)
     * [Don't use should](http://betterspecs.org/#should) best practice
 
