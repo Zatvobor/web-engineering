@@ -1,8 +1,9 @@
-Web Engineering Reading List
-============================
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.md)
 
-* A reading list for web-enginnering
-* Please send suggestions to [@zatvobor](https://twitter.com/zatvobor) or [open an issue](https://github.com/zatvobor/web-engineering/issues)
+## Web Engineering Reading List
+
+* A reading list for web-engineering mastery
+* Please send suggestions to [@zatvobor](https://twitter.com/zatvobor) or [open an issue](https://github.com/zatvobor/web-engineering/issues). You're welcome to contribute.
 
 
 #### Know How
@@ -33,6 +34,7 @@ Web Engineering Reading List
 * [List of HTTP header fields](http://en.wikipedia.org/wiki/List_of_HTTP_header_fields) (Wikipedia)
 * [http:// IETF HTTP Working Group](https://httpwg.github.io)
     * [HTTP/2](https://http2.github.io)
+* [Web Components the right way](https://github.com/mateusortiz/webcomponents-the-right-way)
 
 
 #### W3C Specs and Drafts
