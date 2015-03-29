@@ -27,6 +27,8 @@ Web Engineering Reading List
 * [HTML: The Living Standard - Edition for Web Developers](https://developers.whatwg.org)
     * [MDN: HTTP is an application-layer protocol](https://developer.mozilla.org/en-US/docs/Web/HTTP)
 * [Can I use... Support tables for HTML5, CSS3, etc](http://caniuse.com)
+* [ECMAScript 5..7 compatibility table](http://kangax.github.io/compat-table/es6/)
+    * [ECMAScript Language Specification 6th edition - draft](https://people.mozilla.org/~jorendorff/es6-draft.html) (People Mozila)
 * [MDN: Mozilla Developer Network](https://developer.mozilla.org/en-US/)
 * [List of HTTP header fields](http://en.wikipedia.org/wiki/List_of_HTTP_header_fields) (Wikipedia)
 * [http:// IETF HTTP Working Group](https://httpwg.github.io)
