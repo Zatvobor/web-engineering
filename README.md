@@ -1,4 +1,4 @@
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![License](https://img.shields.io/badge/license-Creative%20Commons%20BY%203.0-blue.svg)](http://creativecommons.org/licenses/by/3.0/)
 
 ## Web Engineering Reading List
 
