@@ -65,6 +65,7 @@
 #### Books
 
 * [High Performance Browser Networking](http://shop.oreilly.com/product/0636920028048.do) (Ilya Grigorik) ([read online](http://chimera.labs.oreilly.com/books/1230000000545/index.html))
+* [Eloquent JavaScript](http://eloquentjavascript.net)
 * [Learn you some Erlang](http://learnyousomeerlang.com/content)
 * [Refactoring: Improving the Design of Existing Code](http://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672)
 
