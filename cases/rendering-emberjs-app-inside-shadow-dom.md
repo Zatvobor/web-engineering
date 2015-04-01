@@ -1,3 +1,5 @@
+_COMPLETELY OUTDATED_
+
 ## Rendering Ember.js application as a Web Component inside Shadow DOM
 
 Everyone who does web engineering hard has already heard about HTML5 rocks called Shadow DOM. There is a [best place](http://www.html5rocks.com/en/tutorials/webcomponents/shadowdom) for getting more instead. I wrote this because it took me some time to figure out how to render Ember.js app like a pure Web Component in context of [ember-insights.js](http://ember-insights.github.io) test case application.
