@@ -35,6 +35,7 @@
 * [http:// IETF HTTP Working Group](https://httpwg.github.io)
     * [HTTP/2](https://http2.github.io)
 * [Web Components the right way](https://github.com/mateusortiz/webcomponents-the-right-way)
+* [Principles of Writing Consistent, Idiomatic JavaScript](https://github.com/rwaldron/idiomatic.js)
 
 
 #### W3C Specs and Drafts
