@@ -46,15 +46,6 @@
     * [Introduction to Service Worker](http://www.html5rocks.com/en/tutorials/service-worker/introduction/) (HTML5Rocks)
 
 
-#### Posts
-
-* [2-Way Data Binding under the Microscope](http://staal.io/blog/2014/02/05/2-way-data-binding-under-the-microscope) (Boris Staal)
-* [URLs vs. URIs: Differences and Examples](http://www.danielmiessler.com/study/url_vs_uri/) (Daniel Miessler)
-* [What's in a story?](http://dannorth.net/whats-in-a-story/) (Dan North)
-* [Why you should care about functional programming](http://pivotallabs.com/why-you-should-care-about-functional-programming/) (John Barker)
-* [Do Not Pass This Way Again. Considering mySQL?](http://grimoire.ca/mysql/choose-something-else)
-
-
 #### Papers
 * [Making Better Estimates](http://spin.atomicobject.com/2008/11/26/making-better-estimates/) (Carl Erickson)
 * [11 Best Practices for Peer Code Review](http://smartbear.com/SmartBear/media/pdfs/WP-CC-11-Best-Practices-of-Peer-Code-Review.pdf) (SmartBear LLC)
@@ -67,6 +58,15 @@
 * [Eloquent JavaScript](http://eloquentjavascript.net)
 * [Learn you some Erlang](http://learnyousomeerlang.com/content)
 * [Refactoring: Improving the Design of Existing Code](http://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672)
+
+
+#### Posts
+
+* [2-Way Data Binding under the Microscope](http://staal.io/blog/2014/02/05/2-way-data-binding-under-the-microscope) (Boris Staal)
+* [URLs vs. URIs: Differences and Examples](http://www.danielmiessler.com/study/url_vs_uri/) (Daniel Miessler)
+* [What's in a story?](http://dannorth.net/whats-in-a-story/) (Dan North)
+* [Why you should care about functional programming](http://pivotallabs.com/why-you-should-care-about-functional-programming/) (John Barker)
+* [Do Not Pass This Way Again. Considering mySQL?](http://grimoire.ca/mysql/choose-something-else)
 
 
 #### References
