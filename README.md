@@ -59,6 +59,7 @@
 * [Making Better Estimates](http://spin.atomicobject.com/2008/11/26/making-better-estimates/) (Carl Erickson)
 * [11 Best Practices for Peer Code Review](http://smartbear.com/SmartBear/media/pdfs/WP-CC-11-Best-Practices-of-Peer-Code-Review.pdf) (SmartBear LLC)
 * [Map-Reduce-Merge: Simpliﬁed Relational Data Processing on Large Clusters](http://www.cs.duke.edu/courses/cps399.28/current/papers/sigmod07-YangDasdanEtAl-map_reduce_merge.pdf)
+* [The Core Protocols V. 3.03](http://www.mccarthyshow.com/wp-content/uploads/2011/02/The+Core+Protocols+3.03.pdf) (Jim McCarthy and Michele McCarthy)
 
 #### Books
 
