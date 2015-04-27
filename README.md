@@ -40,7 +40,7 @@
 
 
 #### W3C Specs and Drafts
-* [Beacon](https://dvcs.w3.org/hg/webperf/raw-file/tip/specs/Beacon/Overview.html) (Editor's Draft February 12, 2014)
+* [sendBeacon](https://dvcs.w3.org/hg/webperf/raw-file/tip/specs/Beacon/Overview.html) (Editor's Draft February 12, 2014)
 * [Service Workers](https://slightlyoff.github.io/ServiceWorker/spec/service_worker/) (W3C Editor's Draft 2 February 2015)
     * [Introduction to Service Worker](http://www.html5rocks.com/en/tutorials/service-worker/introduction/) (HTML5Rocks)
 
