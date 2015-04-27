@@ -16,6 +16,7 @@
 * [Technical debt] (http://en.wikipedia.org/wiki/Technical_debt) (Wikipedia)
     * [Technical debt] (http://www.martinfowler.com/bliki/TechnicalDebt.html) (Martin Fowler)
     * [Technical debt quadrant] (http://martinfowler.com/bliki/TechnicalDebtQuadrant.html) (Martin Fowler)
+* [Workflows of Refactoring](http://martinfowler.com/articles/workflowsOfRefactoring/) (Martin Fowler)
 * [MoSCoW method](http://en.wikipedia.org/wiki/MoSCoW_method) (Wikipedia)
 * [Inversion of control (IoC container)](http://en.wikipedia.org/wiki/Inversion_of_control) (Wikipedia)
     * [Inversion of Control Containers and the Dependency Injection pattern](http://martinfowler.com/articles/injection.html) (Martin Fowler)
@@ -25,7 +26,7 @@
 * [How Browsers Work: Behind the scenes of modern web browsers](http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/) (HTML5Rocks)
 
 
-### Developer Resources and Tools
+#### Developer Resources and Tools
 * [HTML: The Living Standard - Edition for Web Developers](https://developers.whatwg.org)
     * [MDN: HTTP is an application-layer protocol](https://developer.mozilla.org/en-US/docs/Web/HTTP)
 * [Can I use... Support tables for HTML5, CSS3, etc](http://caniuse.com)
@@ -43,11 +44,6 @@
 * [sendBeacon](https://dvcs.w3.org/hg/webperf/raw-file/tip/specs/Beacon/Overview.html) (Editor's Draft February 12, 2014)
 * [Service Workers](https://slightlyoff.github.io/ServiceWorker/spec/service_worker/) (W3C Editor's Draft 2 February 2015)
     * [Introduction to Service Worker](http://www.html5rocks.com/en/tutorials/service-worker/introduction/) (HTML5Rocks)
-
-#### Screencasts
-
-* [Episode 3: Variable Scope In JavaScript](http://www.watchmecode.net/javascript-scope)
-* [Workflows of Refactoring](http://martinfowler.com/articles/workflowsOfRefactoring/) (Martin Fowler)
 
 
 #### Posts
