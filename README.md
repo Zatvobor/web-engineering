@@ -23,6 +23,7 @@
     * [Inversion of Control Containers and the Dependency Injection pattern](http://martinfowler.com/articles/injection.html) (Martin Fowler)
     * [Dependency injection](http://en.wikipedia.org/wiki/Dependency_injection) (Wikipedia)
 * [CAP theorem](http://en.wikipedia.org/wiki/CAP_theorem) (Wikipedia)
+    * [ACID](http://en.wikipedia.org/wiki/ACID) (Wikipedia)
 * [Better Specs](http://betterspecs.org)
     * [Don't use should](http://betterspecs.org/#should) best practice
 * [How Browsers Work: Behind the scenes of modern web browsers](http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/) (HTML5Rocks)
