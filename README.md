@@ -59,6 +59,7 @@
 * [Eloquent JavaScript](http://eloquentjavascript.net)
 * [Learn you some Erlang](http://learnyousomeerlang.com/content)
 * [Refactoring: Improving the Design of Existing Code](http://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672)
+* [Peopleware: Productive Projects and Teams](http://www.amazon.com/Peopleware-Productive-Projects-Second-Edition/dp/0932633439) (Amazon)
 
 
 #### Posts
