@@ -7,6 +7,7 @@
 
 
 #### Know How
+* [Extreme Programming](http://en.wikipedia.org/wiki/Extreme_programming) (Wikipedia)
 * [Slow programming](https://en.wikipedia.org/wiki/Slow_programming) (Wikipedia)
     * [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html) (Peter Norvig)
 * [SOLID (Single responsibility, Open-closed, Liskov substitution, Interface segregation and Dependency inversion)](http://en.wikipedia.org/wiki/SOLID_(object-oriented_design)) (Wikipedia)
