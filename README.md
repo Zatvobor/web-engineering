@@ -75,3 +75,5 @@
 #### References
 
 * [Services Engineering Reading List with a focus on cloud infrastructure services](https://github.com/mmcgrana/services-engineering) (Mark McGranaghan)
+
+![ENGINEERING](https://pp.vk.me/c619316/v619316752/9f31/2XJQkyKxkoc.jpg)
