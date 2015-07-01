@@ -78,4 +78,10 @@
 
 * [Services Engineering Reading List with a focus on cloud infrastructure services](https://github.com/mmcgrana/services-engineering) (Mark McGranaghan)
 
+##### Legacy
+
+* [Common Gateway Interface](https://en.wikipedia.org/wiki/Common_Gateway_Interface) (Wikipedia)
+* [Web Server Gateway Interface](https://en.wikipedia.org/wiki/Web_Server_Gateway_Interface) (Wikipedia)
+
+
 ![ENGINEERING](https://pp.vk.me/c619316/v619316752/9f31/2XJQkyKxkoc.jpg)
