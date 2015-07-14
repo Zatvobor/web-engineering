@@ -13,6 +13,7 @@
 * [INVEST](http://en.wikipedia.org/wiki/INVEST_(mnemonic)) (Wikipedia)
     * [When is my user story complete?](http://pivotallabs.com/when-is-my-user-story-complete/) (Tami Resi)
 * [YAGNI](http://en.wikipedia.org/wiki/You_aren't_gonna_need_it) (Wikipedia)
+* [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself) (Wikipedia)
 * [Benevolent dictator for life](https://en.wikipedia.org/wiki/Benevolent_dictator_for_life) (Wikipedia)
 * [Technical debt] (http://en.wikipedia.org/wiki/Technical_debt) (Wikipedia)
     * [Technical debt] (http://www.martinfowler.com/bliki/TechnicalDebt.html) (Martin Fowler)
